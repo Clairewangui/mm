@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <div style="max-width: 600px; text-align: center;">
+  <div style="flex: 1; min-width: 300px; text-align: left;">
 
 # Hey👋, I am Claire Wangui  
-🔍 A passionate Data scientist/Analyst from Nairobi, Kenya  
+🔍 A passionate Data Scientist/Analyst from Nairobi, Kenya  
 - 📊 I work with data to uncover insights, tell stories and drive decisions.  
 - 🍃 Currently exploring advanced topics in Machine Learning, Python and SQL.  
 - 🛠️ Skilled in data visualization, statistical modelling and predictive analytics  
@@ -17,7 +17,7 @@
 
   </div>
 
-  <div>
+  <div style="min-width: 300px;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
   </div>
 
