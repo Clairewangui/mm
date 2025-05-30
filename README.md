@@ -1,22 +1,20 @@
 # Hey 👋, I am Claire Wangui
 
-*A passionate Data Scientist/Analyst from Nairobi, Kenya*
+A passionate Data Scientist/Analyst from Nairobi, Kenya
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-  <div style="flex: 1;">
+<div style="flex: 1;">
 
 - 📊 I work with data to uncover insights, tell stories and drive decisions  
-- 📚 Currently exploring advanced topics in *Machine Learning*, *Python* and *SQL*  
-- 🛠️ Skilled in **data visualization**, **statistical modelling**, and *predictive analytics*  
-- 🎨 *Fun fact:* I love turning messy data into beautiful, insightful dashboards  
+- 📚 Currently exploring advanced topics in Machine Learning, Python and SQL  
+- 🛠️ Skilled in *data visualization, **statistical modelling, and *predictive analytics  
+- 🎨 Fun fact: I love turning messy data into beautiful, insightful dashboards  
 - 🤝 Open to collaborations on data-driven projects and research  
 
-  </div>
+</div>
 
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
-  </div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
 
 </div>
 
